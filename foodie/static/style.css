@@ -1,0 +1,87 @@
+body {
+  background-color: rgba(237, 227, 94, 0.9);
+  margin: 0;
+  padding: 0; 
+  font-family: Arial, sans-serif; 
+}
+
+.logo {
+  width: 13em;
+  height: 63px;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+h1 strong {
+  font-weight: 600;
+  color: #4b8673;
+}
+
+.inputstyle {
+  padding: 20px !important;
+}
+
+.whoop {
+  background-color: #5fd068;
+  width: 8em;
+  font-size: 30px !important;
+  color: #ffffff;
+  transition: background-color 0.3s ease;
+}
+
+.whoop:hover {
+  background-color: #4bbd5a;
+}
+
+.caloriescont {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 8px; 
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+  margin: 20px auto; 
+  max-width: 600px; 
+}
+
+.caloriescont ul {
+  padding: 0;
+}
+
+.caloriescont ul li {
+  list-style: none;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #efefef;
+  padding: 10px 0; 
+}
+
+.caloriescont h3 {
+  color: #4b8673;
+  font-size: 2em;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.caloriescont h5 {
+  color: #4b8673;
+}
+
+.servingsize {
+  background-color: #000000;
+  padding: 10px;
+  color: #ffffff;
+  border-radius: 4px; 
+}
+
+.alert {
+  border-radius: 5px; 
+}
+
+.exercise-info img {
+  width: 50px; 
+  height: auto;
+}
+
+.d-flex {
+  margin-bottom: 15px; 
+}
